@@ -109,7 +109,7 @@ Business-Sales-Analytics/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/business-sales-analytics.git
+git clone https://github.com/KishoreAIML/Business-Sales-Performance-Analytics.git
 cd business-sales-analytics
 ```
 
